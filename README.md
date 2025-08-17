@@ -1,4 +1,4 @@
-# Hey, I’m **walthova.eth** 👋🏽
+# Hi, I’m **walthova.eth** 👋🏽
 Polymath, creative technologist, community builder. I design culture-grade systems where art, AI, and on-chain coordination feel human, ethical, and teachable.
 
 - 🇵🇦 Panamanian American, raised in Little Rock, based in Los Angeles  
