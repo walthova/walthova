@@ -13,8 +13,9 @@ Polymath, creative technologist, community builder. I design culture-grade syste
 - **AI literacy and innovative thinking**: toolkits, workshops, and prompts that make advanced AI usable for newcomers and powerful for pros  
 - **Decision intelligence**: simulation-first product thinking, scenario trees, and human-in-the-loop feedback that aligns choices with values  
 - **Ethics in AI and blockchain**: consent, provenance, bias awareness, safety-by-default, and transparent governance  
-- **Quantum-inspired simulation**: probabilistic reasoning, ensemble models, and narrative playback to explore many futures before committing to one
+- **Community empowerment**: access, ownership, and upward mobility through education-first onboarding.
 
+  
 ---
 
 ## What I’m building
