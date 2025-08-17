@@ -47,7 +47,7 @@ Polymath, creative technologist, community builder. I design culture-grade syste
 - Organizer of 7+ pop-ups, runways, and art exhibitions across Los Angeles and Little Rock 
 - Community builder for La Familia DAO research and education pilot · 2025–present
 - ENS-powered gallery and collector onboarding experiments · 2025–present
-- Volunteer, City Kids Design Lab
+- Founder of La Familia DAO 
 
 ---
 
