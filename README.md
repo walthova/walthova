@@ -12,7 +12,7 @@ Polymath, creative technologist, community builder. I design culture-grade syste
 ## What I care about
 - **AI literacy and innovative thinking**: toolkits, workshops, and prompts that make advanced AI usable for newcomers and powerful for pros  
 - **Decision intelligence**: simulation-first product thinking, scenario trees, and human-in-the-loop feedback that aligns choices with values  
-- **Ethics in AI and blockchain**: consent, provenance, bias awareness, safety-by-default, and transparent governance  
+- **Ethics in AI and blockchain**: consent, provenance, bias awareness, and transparent governance  
 - **Community empowerment**: access, ownership, and upward mobility through education-first onboarding.
 
   
