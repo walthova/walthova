@@ -38,14 +38,21 @@ Polymath, creative technologist, community builder. I design culture-grade syste
 ---
 
 ## Community
-- ETHGlobal NYC award in 2022
-- USC HackSC Mentor 2024
+- ETHGlobal NYC award · 2022
+- USC HackSC Mentor · 2024
+- ETHGlobal volunteer and judging support · 2024 
+- Colorwave City Ambassador, LA Tech Week (Colorwave) ·  2024
+- Chair, Year Up Los Angeles Alumni Board · 2025–present
+- Organizer of 7+ pop-ups, runways, and art exhibitions across Los Angeles and Little Rock 
+- Community builder for La Familia DAO research and education pilot · 2025–present
+- ENS-powered gallery and collector onboarding experiments · 2025–present
+- Volunteer, City Kids Design Lab
 
 ---
 
 ## Interests
 - Predictive and reinforce intelligence for creative products and civic use  
-- On-chain governance that everyday communities can actually use  
+- On-chain governance that everyday communities can use  
 - DeFi and ReFi with safer defaults and education at the core  
 - ENS identity for cultural experiences and collectors
 
@@ -63,15 +70,4 @@ I love partnering on:
 > We are one.
 ```
 
-Want me to add badges, pin a repo layout, or swap in exact links for reach me and live projects?
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ▲ ● ◼︎
