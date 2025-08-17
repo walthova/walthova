@@ -38,7 +38,7 @@ Polymath, creative technologist, community builder. I design culture-grade syste
 ---
 
 ## Community
-- ETHGlobal NYC award · 2022
+- My First participation in a Hackathon was at ETHNYC2022
 - USC HackSC Mentor · 2024
 - ETHGlobal volunteer and judging support · 2024 
 - Colorwave City Ambassador, LA Tech Week (Colorwave) ·  2024
