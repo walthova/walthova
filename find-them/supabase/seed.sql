@@ -1,0 +1,48 @@
+-- Seed data for local development and testing
+
+-- Insert test profiles (linked to auth.users that you'll create via Supabase Auth UI)
+-- This is a template - actual user IDs will be generated when users sign up
+
+-- Sample pet post (San Francisco location)
+-- INSERT INTO pet_posts (
+--   user_id,
+--   pet_name,
+--   animal_type,
+--   breed,
+--   colors,
+--   description,
+--   last_seen_location,
+--   last_seen_address,
+--   last_seen_at
+-- ) VALUES (
+--   '<your-user-id-here>',
+--   'Max',
+--   'dog',
+--   'Golden Retriever',
+--   ARRAY['golden', 'light brown'],
+--   'Friendly golden retriever, answers to Max. Wearing blue collar with tag. Last seen at Dolores Park.',
+--   ST_SetSRID(ST_MakePoint(-122.4276, 37.7599), 4326)::geography,
+--   'Dolores Park, San Francisco, CA',
+--   NOW() - INTERVAL '2 hours'
+-- );
+
+-- Sample sighting post (nearby)
+-- INSERT INTO sighting_posts (
+--   user_id,
+--   animal_type,
+--   colors,
+--   description,
+--   sighting_location,
+--   sighting_address,
+--   sighted_at
+-- ) VALUES (
+--   '<another-user-id-here>',
+--   'dog',
+--   ARRAY['golden', 'brown'],
+--   'Saw a golden retriever near the playground, seemed lost',
+--   ST_SetSRID(ST_MakePoint(-122.4266, 37.7589), 4326)::geography,
+--   'Near Dolores Park Playground, SF',
+--   NOW() - INTERVAL '1 hour'
+-- );
+
+-- You can create test users and run these inserts after signing up via the app
