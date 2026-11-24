@@ -2,13 +2,13 @@
 
 Builder, creative technologist and community organizer in Los Angeles. I'm early in my engineering journey and learning in public: the projects below are ones I built hands-on to understand how they work.
 
-**Now building:** [IBG Collection](https://ibgcollects.com) · [RelicPay](https://relicpay.app) · Superposition
+**Now building:** [IBG Collection](https://ibgcollection.com) · [RelicPay](https://relicpay.app) · Superposition
 
 ---
 
 ## Now building
 
-### IBG Collection · [ibgcollects.com](https://ibgcollects.com) · `ibgcollection` (private)
+### IBG Collection · [ibgcollection.com](https://ibgcollection.com) · `ibgcollection` (private)
 My fashion and art brand. *Optic Relics* are framed garments treated as living artifacts, with NFC and story layers that keep their provenance. The site is the storefront and gallery, and IBG is the first merchant pilot for RelicPay.
 
 ### RelicPay · [relicpay.app](https://relicpay.app) · [`relicpay-v2`](https://github.com/walthova/relicpay-v2) · [`relicpay-agents`](https://github.com/walthova/relicpay-agents)
