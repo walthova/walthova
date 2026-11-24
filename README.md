@@ -1,74 +1,58 @@
-# Hi, i’m **walthova.eth** 👋🏽
-Polymath, creative technologist, community builder. I design culture-grade systems where art, AI, and on-chain coordination feel human, ethical, and teachable.
+# Hi, I'm Walter (walthova.eth)
 
-- 🇵🇦 Panamanian American, raised in Little Rock, based in Los Angeles  
-- 🏛 Founder and creative director of **IBG Collection**  
-- 🖼 Curator of **Position.gallery** pop-up experiences  
-- 🧭 Education and onboarding advocate for AI and crypto  
-- 🏆 ETHGlobal NYC award in 2022, ongoing hacker and volunteer
+Builder, creative technologist and community organizer in Los Angeles. I'm early in my engineering journey and learning in public: the projects below are ones I built hands-on to understand how they work.
+
+**Now building:** [IBG Collection](https://ibgcollection.com) · [RelicPay](https://relicpay.app) · Superposition
 
 ---
 
-## What I care about
-- **AI literacy and innovative thinking**: toolkits, workshops, and prompts that make advanced AI usable for newcomers and powerful for pros  
-- **Decision intelligence**: simulation-first product thinking, scenario trees, and human-in-the-loop feedback that aligns choices with values  
-- **Ethics in AI and blockchain**: consent, provenance, bias awareness, and transparent governance  
-- **Community empowerment**: access, ownership, and upward mobility through education-first onboarding.
+## Now building
 
-  
----
+### IBG Collection · [ibgcollection.com](https://ibgcollection.com) · `ibgcollection` (private)
+My fashion and art brand. *Optic Relics* are framed garments treated as living artifacts, with NFC and story layers that keep their provenance. The site is the storefront and gallery, and IBG is the first merchant pilot for RelicPay.
 
-## What I’m building
-- **IBG Collection: Optic Relics**  
-  Framed garments as living artifacts. Triangle, circle, square as a language of unity. NFC and story layers that preserve memory and provenance.
+### RelicPay · [relicpay.app](https://relicpay.app) · [`relicpay-v2`](https://github.com/walthova/relicpay-v2) · [`relicpay-agents`](https://github.com/walthova/relicpay-agents)
+On-chain credit on Solana for people and their AI agents.
+- **`relicpay-v2`**: the core protocol in Anchor/Rust. Yield-bearing buy now, pay later escrow, a Kamino Lend adapter, risk controls (pause, deposit and TVL caps) and a test suite. Devnet demo, not audited.
+- **`relicpay-agents`**: built at the MLH Solana Hackathon (Nov 2026). An agent gets its own key and an on-chain "job description" (budget, per-purchase cap, approved merchants, expiry) that it cannot bypass, backed by an 80% LTV credit vault and x402 payments.
 
-- **Position.gallery**  
-  A traveling gallery and cultural lab where AI art, human craft, and community education meet. ENS-powered identity for collectors and guests.
-
-- **La Familia DAO**  
-  A network-city concept that blends simple token membership with real-world coordination. Education first, clear governance, honest incentives.
+### Superposition · [`superposition-concept`](https://github.com/walthova/superposition-concept)
+A simulation-first concept for decision making: model a choice as a tree of scenarios, simulate outcomes, and keep a human in the loop. Early Python prototype and notebook.
 
 ---
 
-## Pilots and experiments
-- **Wear to Earn**: ambassadors unlock benefits by activating art in the world  
-- **NFT fashion immersion**: on-chain wardrobe identity, gallery-grade presentation, and owner narratives  
-- **ENS-driven pop-ups**: identity, ticketing, and collector provenance for gallery events  
-- **AI video storytelling**: hygge.film
+## How I got here (learning in public)
+
+How each project led to the next. Most earlier experiments are archived; private ones are listed by name.
+
+| When | What I built | What I learned |
+|---|---|---|
+| 2023 | [`wmportfolio-`](https://github.com/walthova/wmportfolio-): my first portfolio site | HTML/CSS, shipping a page |
+| 2025 | `optic-relics-gallery` (private), [`ibg-gallery`](https://github.com/walthova/ibg-gallery), `ibg-gallery-3d` (private), `3d-shop` (private), Builder.io and Next.js Commerce mocks | Gallery and storefront prototypes for IBG, 3D on the web, e-commerce templates |
+| 2025 | `relicpay-demo` (private): BNPL for real-world assets in Solidity | My first smart contract (Ethereum) |
+| 2026 | `relicpay` (private), `relicpay-solana` (private), `relicpay-claude` (private), `relicpay-codex-prototype` (private) | Moving RelicPay to Solana and Anchor; building with AI coding agents. These led to `relicpay-v2` |
+| 2026 | `find-them` (private): lost and found pets app | Mobile app planning with Expo and Supabase |
+| 2026 | [`relicpay-agents`](https://github.com/walthova/relicpay-agents) | First hackathon build on Solana: agent credit and x402 |
+
+I also fork projects to study them (AI agents, trading bots, computer vision), for example [`eliza`](https://github.com/walthova/eliza), [`freqtrade`](https://github.com/walthova/freqtrade) and [`segment-anything`](https://github.com/walthova/segment-anything).
 
 ---
 
 ## Community
-- My First participation in a Hackathon was at ETHNYC2022
-- USC HackSC Mentor · 2024
-- ETHGlobal volunteer and judging support · 2024-present 
-- Colorwave City Ambassador, LA Tech Week (Colorwave) ·  2024
+- First hackathon: ETHGlobal NYC 2022 (award)
+- USC HackSC mentor · 2024
+- ETHGlobal volunteer and judging support · 2024–present
+- Colorwave City Ambassador, LA Tech Week · 2024
 - Chair, Year Up Los Angeles Alumni Board · 2025–present
-- Organizer of 7+ pop-ups, runways, and art exhibitions across Los Angeles and Little Rock 
-- Community builder for La Familia DAO research and education pilot · 2025–present
-- ENS-powered gallery and collector onboarding experiments · 2025–present
-- Founder of La Familia DAO 
+- Founder of La Familia DAO, a community research and education pilot · 2025–present
+- Organizer of 7+ pop-ups, runways and art exhibitions in Los Angeles and Little Rock, including Position.gallery
 
----
+## What I care about
+- **AI and crypto literacy**: making these tools usable for newcomers
+- **Safer on-chain finance**: credit with clear limits and education first
+- **Ethics**: consent, provenance and transparent governance
 
-## Interests
-- Predictive and reinforce intelligence for creative products and civic use  
-- On-chain governance that everyday communities can use  
-- DeFi and ReFi with safer defaults and education at the core  
-- ENS identity for cultural experiences and collectors
+## Reach me
+walter@ibgcollection.com · [@walthova](https://x.com/walthova)
 
----
-
-## Collaborate with me
-I love partnering on:
-- Simulation-driven tools for better decisions  
-- Gallery and cultural tech that blends AI, fashion, and on-chain identity  
-- DAO pilots with measurable goals and clear, humane governance
-
-**Reach me**: walter@ibgcollection.com
-
-> Triangle. Circle. Square.  
-> We are one.
-```
-
- ▲ ● ◼︎
+> Triangle. Circle. Square. We are one.  ▲ ● ◼︎
